@@ -1,0 +1,54 @@
+{
+  "slug": "marryday-caterers-kochi-kerala",
+  "name": "Marryday Caterers Kochi Kerala",
+  "shortName": "Marryday Caterers Kochi Kerala",
+  "descriptor": "Catering Services",
+  "address": "Malekapady juma masjid, Ernakulam, Keralam 683561",
+  "area": "Ernakulam",
+  "city": "Kochi",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "683561",
+  "geo": {
+    "lat": 10.0540506,
+    "lng": 76.384985
+  },
+  "mapsLink": "https://maps.google.com/?cid=13448047477174284542",
+  "phone": "+91 89219 36942",
+  "whatsapp": "918921936942",
+  "rating": 4.9,
+  "reviewCount": 106,
+  "reviews": [
+    {
+      "name": "Dr Athira K Raj",
+      "rating": 5,
+      "quote": "We had an amazing experience with Marryday Caters for our housewarming celebration. The food was so delicious. We received endless compliments from our friends and family, and we highly recommend their services for any special event!"
+    },
+    {
+      "name": "Aju Philip",
+      "rating": 5,
+      "quote": "I had the pleasure of working with Marryday Wedding Company for a 3-day IEEE event at KMEA Engineering College, and I couldn't be happier with their services. From start to finish, their event management was top-notch. The venue decoration was absolutely stunning and created the perfect atmosphere for our event."
+    },
+    {
+      "name": "Muhammed Yaseen",
+      "rating": 5,
+      "quote": "\"Amazing experience with this wedding event management team! They made our day unforgettable with impeccable planning and execution. Highly recommend their services!\""
+    },
+    {
+      "name": "Simna K N",
+      "rating": 5,
+      "quote": "I had a very good experience working with them. Everything was on point and they were so responsible and punctual . All the very best guysss."
+    },
+    {
+      "name": "AKTHAR ALI",
+      "rating": 5,
+      "quote": "had a great experience with this wedding event company. The planning and execution were mostly flawless, and the decor was beautiful."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://marryday-caterers-kochi-kerala.vercel.app"
+}
